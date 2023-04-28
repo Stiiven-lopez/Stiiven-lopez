@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Steven lopez</h1><h3 align="center">Soy Stiven lopez romero, un tecnólogo en análisis de sistemas especializado en el área del Frontend y el campo en la nube, con experiencia en proyectos.</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=stiiven-lopez&label=Profile%20views&color=0e75b6&style=flat" alt="stiiven-lopez" /> </p>
+<h1 align="center">Hola 👋 me presento Steven lopez</h1><h3 align="center">Soy Stiven lopez romero, un tecnólogo en análisis de sistemas especializado en el área del Frontend y el campo en la nube, con experiencia en proyectos.</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=stiiven-lopez&label=Profile%20views&color=0e75b6&style=flat" alt="stiiven-lopez" /> </p>
 
 
 
